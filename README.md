@@ -70,4 +70,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](./MIT.md) licensed.![image](https://user-images.githubusercontent.com/96092850/176786107-f7f76586-c100-4dc8-8d70-8e173c99d085.png)
+This project is [MIT](./MIT.md) licensed.
