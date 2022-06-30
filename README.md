@@ -1,9 +1,9 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 
-# Hello-Microverse
+# setup and mobile version skeleton
 
-> My First Official Microverse Repository 
+
 
 ![Screenshot (298)](https://user-images.githubusercontent.com/96092850/176784710-2d104970-2617-44c3-be48-4aa7c6e1747d.png)
 )
