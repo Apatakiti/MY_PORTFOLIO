@@ -1,36 +1,62 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
+# Project Name
 
-# setup and mobile version skeleton
-
-
-
-![Screenshot (298)](https://user-images.githubusercontent.com/96092850/176784710-2d104970-2617-44c3-be48-4aa7c6e1747d.png)
-)
-![Screenshot (300)](https://user-images.githubusercontent.com/96092850/176784810-f42f9ed2-426a-4b4a-9408-39fda5b858c5.png)
+> Description the project.
 
 
 ## Built With
 
-- HTML
-- CSS
+- Major languages
+- Frameworks
+- Technologies used
+
+## Live Demo (if available)
+
+[Live Demo Link](https://livedemo.com)
+
+
+## Getting Started
+
+**This is an example of how you may give instructions on setting up your project locally.**
+**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+
+
+To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+
+### Setup
+
+### Install
+
+### Usage
+
+### Run tests
+
+### Deployment
 
 
 
-## Author
+## Authors
 
-👤 **Ademola Owoeye**
+👤 **Author1**
 
+- GitHub: [@githubhandle](https://github.com/githubhandle)
+- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
-- GitHub: [@Ademola-coding](https://github.com/Ademola-coding)
-- Twitter: [@Steady1700](https://twitter.com/steady1700)
-- LinkedIn: [Ademola Owoeye](https://www.linkedin.com/in/ademola-owoeye-0bb344223/)
+👤 **Author2**
 
+- GitHub: [@githubhandle](https://github.com/githubhandle)
+- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
+Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
@@ -44,5 +70,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](./MIT.md) licensed.
-
+This project is [MIT](./MIT.md) licensed.![image](https://user-images.githubusercontent.com/96092850/176786107-f7f76586-c100-4dc8-8d70-8e173c99d085.png)
